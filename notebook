@@ -1,0 +1,9 @@
+dependencies - package.json: là môi trường thật
+devDependencies - package.json: là môi trường dev
+handlebar-js:  để xử lý dữ liệu từ DB ra.
+mongoose: hỗ trợ connect DB trên môi trường không đồng bộ
+nodemon: chạy sever
+prettier: format code
+npm run watch: để render scss to css (mở 2 command để chạy được)
+dùng mongoose js để lấy data về model
+mongoose-slug-updater: để tránh trùng slug
